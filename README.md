@@ -43,9 +43,7 @@
 
 ⚙️ Exploring how LLM's work
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/shivanshtiwari23/shivanshtiwari23/output/github-contribution-grid-snake-dark.svg)
 
 ## 🔥 GitHub Streak
 
@@ -53,6 +51,11 @@
   <img src="https://streak-stats.demolab.com?user=shivanshtiwari23&theme=tokyonight" />
 </p>
 
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shivanshtiwari23/shivanshtiwari23/output/github-contribution-grid-snake-dark.svg)
 <!---
 shivanshtiwari23/shivanshtiwari23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
