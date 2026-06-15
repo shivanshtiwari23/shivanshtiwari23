@@ -1,8 +1,10 @@
 👋 Hi, I’m @shivanshtiwari23
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1500&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Shivansh+%F0%9F%91%8B;A+Passionate+Software+Developer;Java+%7C%7C+Spring+Boot+%7C%7C+MySQL" alt="Typing SVG" />
 </p>
+
 
 ## 🌟 About Me
 
