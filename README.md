@@ -34,6 +34,15 @@
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 </p>
+
+## 📡 Currently Working On
+
+🚀 Building backend applications with Java, Spring Boot, and REST APIs
+
+📊 Strengthening problem-solving skills through Data Structures & Algorithms
+
+⚙️ Exploring how LLM's work
+
 <!---
 shivanshtiwari23/shivanshtiwari23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
