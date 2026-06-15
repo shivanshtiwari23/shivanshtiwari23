@@ -1,8 +1,21 @@
 👋 Hi, I’m @shivanshtiwari23
 
-## 👋 About Me
+## 🌟 About Me
 
-I'm a software developer passionate about building backend systems and exploring Android development. I enjoy turning ideas into real-world applications using Java, Spring Boot, Kotlin, and modern database technologies.
+💻 Backend & Software Developer passionate about building scalable applications
+
+🌱 Currently exploring Java full stack development
+
+🚀 Working on personal projects involving Spring Boot, REST APIs, Databases, and Android Development
+
+💬 Ask me about Java, Spring Boot, Databases, APIs
+
+📚 Learning Data Structures & Algorithms and System Design
+
+📫 Reach me at: [shivanshtiwari70@gmail.com](mailto:shivanshtiwari70@gmail.com)
+
+⚡ Fun fact: I enjoy building software, analyzing cricket data, and learning how AI systems work behind the scenes
+
 
 
 <h2>⚡ Tech Stack</h2>
