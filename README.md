@@ -50,6 +50,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshtiwari23&layout=compact&theme=tokyonight" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivanshtiwari23&theme=tokyonight" />
+</p>
+
 <!---
 shivanshtiwari23/shivanshtiwari23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
