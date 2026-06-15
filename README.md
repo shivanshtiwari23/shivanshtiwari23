@@ -43,7 +43,9 @@
 
 ⚙️ Exploring how LLM's work
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/shivanshtiwari23/shivanshtiwari23/output/github-contribution-grid-snake-dark.svg)
 
 ## 🔥 GitHub Streak
 
